@@ -1,0 +1,155 @@
+
+body {
+    background-color: lightgray;
+   
+
+}
+.contenedor{
+  background-color: rgb(234, 234, 244);
+  text-align: center;
+  font-family: sans-serif;
+  margin: 5%;
+  padding: 5%;
+  display: flex;
+
+  
+}
+.contenedor_inicio{
+  margin: 1%;
+  padding: 4% 2% 2% 15%;
+  display: flex;
+  background-color: rgb(240, 240, 245);
+  text-align: center;
+  border: 1px solid black;
+  
+
+}
+  .color_div1{
+  
+    background-color: rgb(207, 165, 247);
+    width: 320px;
+    height: 300px;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+  }
+  .color_div2{
+    
+    background-color: rgb(208, 189, 226);
+    width: 320px;
+    height: 300px;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+  
+  }
+  .color_div3{
+    
+    background-color: rgb(171, 243, 194);
+    width: 320px;
+    height: 300px;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+  }
+  .color_div4{
+    
+    background-color: rgb(236, 236, 99);
+    width: 1100px;
+    height: 370px;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    border: 1px solid black;
+  }
+  .color_div5{
+    
+    background-color: rgb(160, 238, 168);
+    width: 720px;
+    height: 300px;
+    float: left;
+    padding: 2%;
+    border: 1px solid black;
+  }
+
+  h2{
+    text-align: center;
+    font-family: sans-serif;
+    color: white ;
+    background-color: black;
+    padding: 2%;
+  }
+  .sec_mapa{
+    background-color: rgb(243, 243, 248); 
+    border: 1% solid black;
+    text-align: center;
+    margin: 10%;
+    padding: 1%;
+    
+  }
+  .formato_footer{
+    
+    background-color: rgb(99, 236, 113);
+    width: 1100px;
+    height: 300px;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    float: left;
+  }
+
+  table {
+   border: 1px  solid;
+   width: 100%;
+   border-collapse: collapse;
+  }
+  th, td{
+    text-align: left;
+    padding: 8px;
+  }
+  tr:nth-child(even){
+    background-color: #f2f2f2;
+  }
+  img{
+    text-align: center;
+  }
+  .footer{
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 1%;
+    margin: 2%;
+
+}
+ul{
+  background-color:transparent;
+  text-align: left;
+  
+}
+nav{
+  
+  margin: 2%;
+  padding: 1%;
+  display: flex;
+  margin-left: 700px;
+}
+main{
+  border: 1px solid black;
+  margin: 2%;
+  padding: 1%;
+}
+.imagen{
+  width: 350px;
+  margin-left: 30px;
+}
+.textos{
+  align-self: center;
+  background-color: rgb(187, 237, 237);
+  padding: 55px;
+}
+p{
+ padding:  1%;
+ 
+}
+
